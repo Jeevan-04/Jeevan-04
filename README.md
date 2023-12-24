@@ -13,13 +13,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jeevan-04&theme=flag-india&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevan-04&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Jeevan-04&icon=2&color=1)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 🤝🏼 Join my community
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Nirukti) 
 
   
