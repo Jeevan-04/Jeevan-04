@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Jeevan-04.Jeevan-04" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Namō+Namaḥ!+🙏🏻;+I'm+Jeevan+Naidu!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Namō+Namaḥ!+🙏;+I'm+Jeevan+Naidu!;" />
 </h1>
 
 <h3 align="center">Passionate computer science student immersed in the enchanting realms of ancient Bharata 🛕</h3>
