@@ -49,7 +49,6 @@
   </a>
 </div>
 
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -67,7 +66,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
 </div>
 
-###
+<br/>
+<hr/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -91,11 +91,10 @@
 <br/><br/>
 
 <hr/>
-
+<h3 align="center">
+«ing src="https://readme-typing-svg.herokuapp.com/?
+font-Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visitingl+ d ;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)"> 
+</h3>
 <br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
 
 <br/>
