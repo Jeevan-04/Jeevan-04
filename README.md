@@ -92,5 +92,14 @@
 </div>
 
 
-### ✍️ Quotes
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
+<div align="center">
+  <h2> Quotes </h2>
+
+<div align="center">
+    
+</p>
+
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=solarized&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
