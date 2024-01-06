@@ -83,7 +83,7 @@
 </p>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeevan-04&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeevan-04&theme=solarized)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jeevan-04&theme=solarized)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jeevan-04&theme=vue)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jeevan-04&theme=vue)
