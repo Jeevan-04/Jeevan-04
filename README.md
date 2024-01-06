@@ -100,6 +100,6 @@
 </p>
 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=solarized&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=vue)](https://github.com/cheehwatang/github-readme-daily-quotes)
 
 </div>
