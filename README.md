@@ -67,7 +67,7 @@
   <img width="12" />
   <img src="https://play-lh.googleusercontent.com/rW4cFCs9COZhpTYlW9x9OL2lKAy9kkPCTEfEUliybKOiXLsfi2BlOWyvZolbCiszcj4" height="34" alt="appsheet logo"  />
   <img width="12" />
-  <img src="https://devopedia.org/images/article/331/1110.1618044404.png" height="34" alt="appsheet logo"  />
+  <img src="https://devopedia.org/images/article/331/1110.1618044404.png" height="34" alt="Scratch logo"  />
 </div>
 
 <br/>
