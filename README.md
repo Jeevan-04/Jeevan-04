@@ -80,22 +80,17 @@
 
 <div align="center">
     
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jeevan-04&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jeevan-04&theme=flag-india&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevan-04&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</p>
 
-[![Jeevan's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Jeevan-04\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
-[![Jeevan's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Jeevan-04\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
 
-Since GitHub will re-upload the cards and serve them from their [CDN](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-anonymized-urls), we can not infer the browser/GitHub theme on the server side. There are, however, four methods you can use to create dynamics themes on the client side.
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeevan-04&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jeevan-04&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jeevan-04&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jeevan-04&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jeevan-04&theme=solarized&utcOffset=5.3)
+
+</div>
 
 
 ### ✍️ Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
-
-
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Jeevan-04&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
