@@ -8,7 +8,7 @@
 
 <br/>
 
-<img align="right" alt="GIF" src="https://media.tenor.com/422Hel8OeHEAAAAi/doraemon-cute.gif"/>
+<img align="right" alt="GIF" src="https://media.tenor.com/KDRVCsqk4bUAAAAi/your-welcome.gif" height="20%" width="20%"/>
 
 🧑🏻‍💻 I am a **first year Btech student** at **ITM Skills University**
  
