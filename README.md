@@ -68,10 +68,10 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Jeevan-04/Jeevan-04/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+
 </div>
 
-<hr/>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 <div align="center">
     
 </p>
