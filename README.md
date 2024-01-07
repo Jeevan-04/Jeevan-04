@@ -77,7 +77,8 @@
 </p>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeevan-04&theme=transparent)
+
+[![Jeevan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jeevan-04&bg_color=ffffff&color=000000&line=a67503&point=1a77f0&area=true&area_color=f2c33f&hide_border=true)](https://github.com/Jeevan-04/github-readme-activity-graph)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jeevan-04&theme=solarized)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jeevan-04&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jeevan-04&theme=transparent)
