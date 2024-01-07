@@ -55,6 +55,7 @@
     <img src="https://skillicons.dev/icons?i=git,github,c,cpp,py,vscode,blender,figma,wordpress&theme=light" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Scratch.logo.S.png" width="50" height="50">
     <img src="https://freelogopng.com/images/all_img/1656733807canva-icon-png.png" width="50" height="50">
+    <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50">
   </a>
 </p>
 <hr/>
