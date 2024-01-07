@@ -53,7 +53,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,c,cpp,py,vscode,blender,figma,wordpress&theme=light" />
-    <img src="https://1000logos.net/wp-content/uploads/2020/10/Scratch-Logo-2013.jpg" width="80" height="47">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Scratch.logo.S.png" width="50" height="50">
   </a>
 </p>
 <hr/>
