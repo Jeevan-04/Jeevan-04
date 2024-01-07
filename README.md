@@ -49,7 +49,6 @@
   </a>
 </div>
 
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
@@ -98,3 +97,4 @@
 [![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=vue)](https://github.com/cheehwatang/github-readme-daily-quotes)
 
 </div>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
