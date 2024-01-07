@@ -19,8 +19,8 @@
 ⚡ I am also interested in **Animation**, **XR**, **AI** and in **history**.
 
  </div>
- 
-###
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 <div align="center">
   <a href="https://www.instagram.com/_._naidu.jeevan_._/" target="_blank">
@@ -62,7 +62,7 @@
   </a>
 
 </p>
-<hr/>
+
 
 <div align="center">
   <h2> My Contributions </h2>
