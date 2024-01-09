@@ -8,16 +8,15 @@
 
 <br/>
 
-<div align="center">
+<img align="right" alt="GIF" src="https://media.tenor.com/422Hel8OeHEAAAAi/doraemon-cute.gif"/>
+
+🧑🏻‍💻 I am a **first year Btech student** at **ITM Skills University**
  
- 🧑🏻‍💻 I am a **first year Btech student** at **ITM Skills University**
- 
- 🚀 Coding enthusiast weaving a digital tapestry that harmonizes my diverse passions into innovative solutions
+🚀 Coding enthusiast weaving a digital tapestry that harmonizes my diverse passions into innovative solutions
 
 🌱 I’m currently learning **Python**.
 
 ⚡ I am also interested in **Animation**, **XR**, **AI** and in **history**.
-
  </div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -47,6 +46,8 @@
   <a href="https://www.patreon.com/Nirukti" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="patreon logo"  />
   </a>
+    <img align="left" alt="GIF" src="https://storage.googleapis.com/sticker-prod/liGbkkeb2daR2aGjEjVM/18-2.thumb128.png" height="7%" width="7%"/>
+    <img align="right" alt="GIF" src="https://storage.googleapis.com/sticker-prod/liGbkkeb2daR2aGjEjVM/36-2.thumb128.png" height="7%" width="7%"/>
 </div>
 
 <p align="center">
