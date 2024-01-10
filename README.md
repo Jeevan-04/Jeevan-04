@@ -22,7 +22,7 @@
 
  </div>
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/0c696763393359.5ab4ecb5ec40c.gif" width=1000 height=400>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/0c696763393359.5ab4ecb5ec40c.gif" width=auto height=auto>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
