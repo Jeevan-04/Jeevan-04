@@ -60,7 +60,7 @@
     <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50">
   </a>
     <img align="left" alt="GIF" src="https://storage.googleapis.com/sticker-prod/liGbkkeb2daR2aGjEjVM/18-2.thumb128.png" height="5%" width="5%"/>
-    <img align="right" alt="GIF" src="https://storage.googleapis.com/sticker-prod/liGbkkeb2daR2aGjEjVM/36-2.thumb128.png" height="5%" width="5%"/>
+    <img align="right" alt="GIF" src="https://i.pinimg.com/originals/3b/a2/0d/3ba20d8dc0d6d2e36ae3329d2b8a7bb8.gif" height="8%" width="8%"/>
 </div>
 </p>
 
