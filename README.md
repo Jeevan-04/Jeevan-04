@@ -89,7 +89,7 @@
 
 
 <div align="center">
-  <h2> Quotes </h2>
+  <h2> Quote </h2>
 
 <div align="center">
     
