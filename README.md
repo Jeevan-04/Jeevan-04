@@ -77,7 +77,9 @@
 <div align="center">
     
 </p>
-
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=Jeevan-04&column=-1" />
+</p>
 
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Jeevan-04&bg_color=ffffff&color=0042aa&line=b88504&point=0061ff&area=true&area_color=f2c33f&hide_border=true)
