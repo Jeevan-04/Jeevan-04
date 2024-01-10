@@ -10,7 +10,7 @@
 
 <img align="right" alt="GIF" src="https://media.tenor.com/422Hel8OeHEAAAAi/doraemon-cute.gif"/>
 
-<h4 align="left">
+<div align="left">
 
 🧑🏻‍💻 I am a **first year Btech student** at **ITM Skills University**
  
@@ -63,16 +63,16 @@
 
 </p>
 
-
 <div align="center">
   <h2> My Contributions </h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Jeevan-04/Jeevan-04/output/github-contribution-grid-snake.svg" />
-  
 
-</div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+  
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/0c696763393359.5ab4ecb5ec40c.gif" width=1000 height=400>
+</div>
 <div align="center">
     
 </p>
@@ -87,14 +87,12 @@
 
 </div>
 
-
 <div align="center">
   <h2> Quote </h2>
 
 <div align="center">
     
 </p>
-
 
 [![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=vue)](https://github.com/cheehwatang/github-readme-daily-quotes)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=bcd4e6&section=footer">
