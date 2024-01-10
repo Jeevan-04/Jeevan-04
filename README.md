@@ -21,6 +21,8 @@
 ⚡ I am also interested in **Animation**, **XR**, **AI** and in **history**.
 
  </div>
+
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/0c696763393359.5ab4ecb5ec40c.gif" width=1000 height=400>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
@@ -71,7 +73,6 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
   
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/0c696763393359.5ab4ecb5ec40c.gif" width=1000 height=400>
 </div>
 <div align="center">
     
