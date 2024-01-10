@@ -10,7 +10,7 @@
 
 <img align="right" alt="GIF" src="https://media.tenor.com/422Hel8OeHEAAAAi/doraemon-cute.gif"/>
 
-<h4 align="center">
+<h4 align="left">
 
 🧑🏻‍💻 I am a **first year Btech student** at **ITM Skills University**
  
