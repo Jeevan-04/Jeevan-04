@@ -1,5 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Jeevan-04.Jeevan-04"/>
-
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/0c696763393359.5ab4ecb5ec40c.gif" width=auto height=auto>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🙏+Namō+Namaḥ!;+I'm+Jeevan+Naidu!;" />
 </h1>
@@ -21,8 +21,7 @@
 ⚡ I am also interested in **Animation**, **XR**, **AI** and in **history**.
 
  </div>
-
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/0c696763393359.5ab4ecb5ec40c.gif" width=auto height=auto>
+ 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
