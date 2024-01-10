@@ -46,9 +46,7 @@
   <a href="https://www.patreon.com/Nirukti" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="patreon logo"  />
   </a>
-    <img align="left" alt="GIF" src="https://storage.googleapis.com/sticker-prod/liGbkkeb2daR2aGjEjVM/18-2.thumb128.png" height="7%" width="7%"/>
-    <img align="right" alt="GIF" src="https://storage.googleapis.com/sticker-prod/liGbkkeb2daR2aGjEjVM/36-2.thumb128.png" height="7%" width="7%"/>
-</div>
+    
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -59,7 +57,9 @@
     <img src="https://media.licdn.com/dms/image/D5612AQGny7xsSSLQ-A/article-cover_image-shrink_600_2000/0/1699480666080?e=2147483647&v=beta&t=3jmL98hJa2MwOmEPsQZ9t3zAH3CjBLEIL-ugNdJ31tY" width="50" height="50">
     <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50">
   </a>
-
+    <img align="left" alt="GIF" src="https://storage.googleapis.com/sticker-prod/liGbkkeb2daR2aGjEjVM/18-2.thumb128.png" height="5%" width="5%"/>
+    <img align="right" alt="GIF" src="https://storage.googleapis.com/sticker-prod/liGbkkeb2daR2aGjEjVM/36-2.thumb128.png" height="5%" width="5%"/>
+</div>
 </p>
 
 
