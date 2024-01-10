@@ -8,11 +8,13 @@
 
 <br/>
 
-<div align="center">
+<img align="right" alt="GIF" src="https://media.tenor.com/422Hel8OeHEAAAAi/doraemon-cute.gif"/>
+
+<h4 align="center">
+
+🧑🏻‍💻 I am a **first year Btech student** at **ITM Skills University**
  
- 🧑🏻‍💻 I am a **first year Btech student** at **ITM Skills University**
- 
- 🚀 Coding enthusiast weaving a digital tapestry that harmonizes my diverse passions into innovative solutions
+🚀 Coding enthusiast weaving a digital tapestry that harmonizes my diverse passions into innovative solutions
 
 🌱 I’m currently learning **Python**.
 
