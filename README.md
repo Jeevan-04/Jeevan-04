@@ -97,6 +97,4 @@
 
 
 [![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=vue)](https://github.com/cheehwatang/github-readme-daily-quotes)
-
-</div>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=bcd4e6&section=footer">
