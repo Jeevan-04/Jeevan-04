@@ -8,7 +8,7 @@
 
 <br/>
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" height="40%" width="40%"/>
+<img align="right" alt="GIF" src="https://github.com/Jeevan-04/Jeevan-04/blob/main/Hello_world.gif" height="30%" width="30%"/>
 
 <div align="left">
 
