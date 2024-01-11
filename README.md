@@ -62,7 +62,7 @@
     <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50">
   </a>
     <img align="left" alt="GIF" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif" height="13%" width="13%"/>
-    <img align="right" alt="GIF" src="https://github.com/Jeevan-04/Jeevan-04/blob/main/giphy.gif" height="10%" width="10%"/>
+    <img align="right" alt="GIF" src="https://github.com/Jeevan-04/Jeevan-04/blob/main/giphy.gif" height="8%" width="8%"/>
 </div>
 </p>
 
