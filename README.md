@@ -8,7 +8,7 @@
 
 <br/>
 
-<img align="right" alt="GIF" src="https://github.com/Jeevan-04/Jeevan-04/blob/main/Hello_world.gif" height="30%" width="30%"/>
+<img align="right" alt="GIF" src="https://github.com/Jeevan-04/Jeevan-04/blob/main/hello_world.gif" height="30%" width="30%"/>
 
 <div align="left">
 
