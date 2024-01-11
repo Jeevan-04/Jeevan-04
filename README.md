@@ -61,8 +61,7 @@
     <img src="https://media.licdn.com/dms/image/D5612AQGny7xsSSLQ-A/article-cover_image-shrink_600_2000/0/1699480666080?e=2147483647&v=beta&t=3jmL98hJa2MwOmEPsQZ9t3zAH3CjBLEIL-ugNdJ31tY" width="50" height="50">
     <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50">
   </a>
-    <img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="6%" width="6%"/>
-    <img align="right" alt="GIF" src="https://github.com/Jeevan-04/Jeevan-04/blob/main/giphy.gif" height="8%" width="8%"/>
+
 </div>
 </p>
 
