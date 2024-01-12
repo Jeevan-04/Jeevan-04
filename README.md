@@ -12,7 +12,7 @@
 
 <div align="left">
 
-🧑🏻‍💻 I am a **first year Btech student** at **ITM Skills University**
+🧑🏻‍💻 I am a **first year Btech CSE student** at **ITM Skills University**
  
 🚀 Coding enthusiast weaving a digital tapestry that harmonizes my diverse passions into innovative solutions
 
