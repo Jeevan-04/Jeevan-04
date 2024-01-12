@@ -35,7 +35,7 @@
   <a href="https://twitter.com/_Jeevan_naidu_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="twitter logo"  />
   </a>
-  <a href="https://www.hackerrank.com/profile/@2023_jeevann" target="_blank">
+  <a href="https://www.hackerrank.com/profile/2023_jeevann" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="hackerrank logo"  />
   </a>
   <a href="https://medium.com/@@2023.jeevann" target="_blank">
