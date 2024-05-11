@@ -16,7 +16,7 @@
  
 🚀 Coding enthusiast weaving a digital tapestry that harmonizes my diverse passions into innovative solutions
 
-🌱 I’m currently learning **Python**.
+🌱 I’m currently learning **Game Development**, **React** and **UI/UX**.
 
 ⚡ I am also interested in **Animation**, **XR**, **AI** and in **history**.
 
