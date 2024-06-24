@@ -126,4 +126,10 @@
       An AI-powered platform that generates comic books featuring compelling stories and vibrant imagery. Additionally, it fosters a community of comic enthusiasts and authors, nurturing a diverse world of storytelling.
     </td>
   </tr>
+    <tr>
+    <td ><a href="https://github.com/Jeevan-04/Mahabharata_V0.1/tree/main">Mahabharata AI model</a></td>
+    <td>
+      The Mahabharata Text Generation project aims to create an interactive application that leverages a small language model (LLM) to generate text inspired by the Mahabharata. Using a Long Short-Term Memory (LSTM) neural network, the model learns to predict and generate text sequences, capturing the essence and style of the ancient epic.
+    </td>
+  </tr>
 </table>
