@@ -12,13 +12,13 @@
 
 <div align="left">
 
-🧑🏻‍💻 I am a **first year Btech CSE student** at **ITM Skills University**
- 
-🚀 Coding enthusiast weaving a digital tapestry that harmonizes my diverse passions into innovative solutions
+🧑🏻‍💻 **Passionate coder and digital creator** dedicated to blending technology with culture, history, and storytelling through innovative projects.
 
-🌱 I’m currently learning **Game Development**, **React** and **UI/UX**.
+🚀 Exploring the realms of **Game Development** and **Extended Reality (XR)**, pushing the boundaries of interactive and immersive experiences.
 
-⚡ I am also interested in **Animation**, **XR**, **AI** and in **history**.
+⚡ **Enthusiast of Animation and Artificial Intelligence**, crafting narratives that intertwine visual creativity with cutting-edge technology.
+
+📚 **Devoted to preserving and showcasing the rich heritage of Bhārata**, integrating historical insights into modern technological frameworks.
 
  </div>
  
