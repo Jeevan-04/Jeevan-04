@@ -12,13 +12,13 @@
 
 <div align="left">
 
-🧑🏻‍💻 **Passionate coder and digital creator** dedicated to blending technology with culture, history, and storytelling through innovative projects.
+🧑🏻‍💻 **AI Aficionado** | **Merging tech with culture, history, and storytelling.**<br><br>
 
-🚀 Exploring the realms of **Game Development** and **Extended Reality (XR)**, pushing the boundaries of interactive and immersive experiences.
+🚀 **Exploring Game Development and XR to create immersive experiences.**<br><br>
 
-⚡ **Enthusiast of Animation and Artificial Intelligence**, crafting narratives that intertwine visual creativity with cutting-edge technology.
+⚡ **Animation and AI enthusiast crafting narratives with visual creativity.**<br><br>
 
-📚 **Devoted to preserving and showcasing the rich heritage of Bhārata**, integrating historical insights into modern technological frameworks.
+📚 **Dedicated to integrating Bhārata's heritage with modern technology.**<br><br>
 
  </div>
  
