@@ -62,6 +62,7 @@
     <img src="https://skillicons.dev/icons?i=git,github,c&theme=light" />
     <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="60" height="60" />
     <img src="https://skillicons.dev/icons?i=vscode,html,css,js&theme=light" />
+    <img src="https://github.com/user-attachments/assets/3dc10a7e-866d-4ce0-9ecb-7dd1b5f1d548"alt="icon" height="50" />
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="60" height="60" />
     <img src="https://images.ctfassets.net/ub38vssza5h3/3YbiCzyDVnWWyoQQ1ciuim/aba3971a74323bde2459e3e9c5a56443/favicon.png" alt="icon" width="50" height="50" />
     <img src="https://skillicons.dev/icons?i=blender,figma,wordpress&theme=light" />
