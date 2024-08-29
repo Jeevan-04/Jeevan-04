@@ -2,8 +2,8 @@
 <img align="left" src="https://raw.githubusercontent.com/Jeevan-04/IndianCalendarBadge/main/screenshots/badge.png" width="140px" style="position: relative; z-index: 1;"/>
 
 
-<h1 align="center" style="position: relative; z-index: -1;">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🙏+Namō+Namaḥ!;+I'm+Jeevan+Naidu!;" />
+<h1 align="left" style="position: relative; z-index: -1;">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🙏+Namō+Namaḥ!;+I'm+Jeevan+Naidu!;" />
 </h1>
 <img align="center" src="https://github.com/user-attachments/assets/86437b7c-24f7-4b02-86cf-f7df68dcc3d0"  width="100%"/>
 
