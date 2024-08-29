@@ -5,6 +5,7 @@
 <h1 align="center" style="position: relative; z-index: -1;">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🙏+Namō+Namaḥ!;+I'm+Jeevan+Naidu!;" />
 </h1>
+<img align="center" src="https://github.com/user-attachments/assets/86437b7c-24f7-4b02-86cf-f7df68dcc3d0"  width="100%"/>
 
 <h3 align="center">Passionate computer science student immersed in the enchanting realms of ancient Bhārata 🛕</h3>
 
