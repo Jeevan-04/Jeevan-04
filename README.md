@@ -1,5 +1,6 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Jeevan-04.Jeevan-04"/>
-<img align="left" src="https://raw.githubusercontent.com/Jeevan-04/IndianCalendarBadge/main/screenshots/badge.png" height="70px" width="130px"/>
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Jeevan-04.Jeevan-04"/>
+<img align="right" src="https://raw.githubusercontent.com/Jeevan-04/IndianCalendarBadge/main/screenshots/badge.png" width="140px" style="position: relative; z-index: 1000;" />
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🙏+Namō+Namaḥ!;+I'm+Jeevan+Naidu!;" />
