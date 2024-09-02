@@ -11,7 +11,7 @@
 
 <br/>
 
-<img align="right" alt="GIF" src="https://github.com/Jeevan-04/Jeevan-04/blob/main/helloworld.gif" min-height="30%" width="30%"/>
+<img align="right" alt="GIF" src="https://github.com/Jeevan-04/Jeevan-04/blob/main/helloworld.gif" height="30%" width="30%"/>
 
 <div align="left">
 
