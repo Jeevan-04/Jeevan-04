@@ -62,13 +62,18 @@
   <a href="https://skillicons.dev">
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="60" height="60" />
-    <img src="https://skillicons.dev/icons?i=git,github,c&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git&theme=light" />
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=c&theme=light" />
     <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="60" height="60" />
     <img src="https://skillicons.dev/icons?i=vscode,html,css,js&theme=light" />
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=mongodb&theme=light" />
     <img src="https://github.com/user-attachments/assets/3dc10a7e-866d-4ce0-9ecb-7dd1b5f1d548"alt="icon" height="50" />
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="60" height="60" />
     <img src="https://images.ctfassets.net/ub38vssza5h3/3YbiCzyDVnWWyoQQ1ciuim/aba3971a74323bde2459e3e9c5a56443/favicon.png" alt="icon" width="50" height="50" />
     <img src="https://skillicons.dev/icons?i=blender,figma,wordpress&theme=light" />
+    <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="50" height="50" />
     <img src="https://github.com/user-attachments/assets/4e155622-c05f-428e-821e-c2306fbdbe74"alt="icon" width="50" height="50" />
     <img src="https://sp-ao.shortpixel.ai/client/to_auto,q_lossless,ret_img,w_300,h_300/https://fullsteam.mit.edu/wp-content/uploads/2020/03/ScratchLogo-300x300.png" alt="icon" width="50" height="50" />
     <img src="https://media.licdn.com/dms/image/D5612AQGny7xsSSLQ-A/article-cover_image-shrink_600_2000/0/1699480666080?e=2147483647&v=beta&t=3jmL98hJa2MwOmEPsQZ9t3zAH3CjBLEIL-ugNdJ31tY" width="50" height="50">
