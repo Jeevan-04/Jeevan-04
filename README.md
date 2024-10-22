@@ -50,7 +50,7 @@
   <a href="https://www.behance.net/jeevannaidu1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="behance logo"  />
   </a>
-  <a href="https://www.instagram.com/_._naidu.jeevan_._/" target="_blank">
+  <a href="https://www.instagram.com/jeevanology/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="instagram logo"  />
   </a>
   <a href="https://www.patreon.com/Nirukti" target="_blank">
