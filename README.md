@@ -63,6 +63,13 @@
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="60" height="60" />
     <img src="https://skillicons.dev/icons?i=git,github,r,rust&theme=light" />
+    <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/numpy-icon.svg" alt="icon" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/pandas-icon.svg" alt="icon" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/tensorflow.svg" alt="icon" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/graphql.svg" alt="icon" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/neo4j.svg" alt="icon" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nodejs-icon.svg" alt="icon" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/tailwindcss-icon.svg" alt="icon" width="50" height="50" />
     <img src="https://skillicons.dev/icons?i=c,electron,firebase &theme=light" />
     <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="60" height="60" />
     <img src="https://skillicons.dev/icons?i=vscode,html,css,js&theme=light" />
