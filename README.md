@@ -63,7 +63,7 @@
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="60" height="60" />
     <img src="https://skillicons.dev/icons?i=git,github,r,rust&theme=light" />
-    <img src="https://skillicons.dev/icons?i=c,firebase,electron&theme=light" />
+    <img src="https://skillicons.dev/icons?i=c,electron,firebase &theme=light" />
     <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="60" height="60" />
     <img src="https://skillicons.dev/icons?i=vscode,html,css,js&theme=light" />
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
