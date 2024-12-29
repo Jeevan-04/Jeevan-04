@@ -66,6 +66,9 @@
     <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/numpy-icon.svg" alt="icon" width="50" height="50" />
     <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/pandas-icon.svg" alt="icon" width="50" height="50" />
     <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/tensorflow.svg" alt="icon" width="50" height="50" />
+    <img src="https://numfocus.org/wp-content/uploads/2017/11/scipy_logo300x300.png" alt="icon" width="50" height="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="icon" width="50" height="50" />
+    <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" alt="icon" width="50" height="50" />
     <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/graphql.svg" alt="icon" width="50" height="50" />
     <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/neo4j.svg" alt="icon" width="50" height="50" />
     <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nodejs-icon.svg" alt="icon" width="50" height="50" />
