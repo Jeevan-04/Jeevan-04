@@ -1,5 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Jeevan-04.Jeevan-04"/>
-<img align="left" src="https://raw.githubusercontent.com/Jeevan-04/IndianCalendarBadge/main/screenshots/badge.png" width="180px" style="position: relative; z-index: 1;"/>
+<!-- <img align="left" src="https://raw.githubusercontent.com/Jeevan-04/IndianCalendarBadge/main/screenshots/badge.png" width="180px" style="position: relative; z-index: 1;"/> -->
 
 
 <h1 align="left" style="position: relative; z-index: -1;">
