@@ -77,6 +77,7 @@
     <img src="https://skillicons.dev/icons?i=vscode,html,css,js&theme=light" />
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
     <img src="https://skillicons.dev/icons?i=mongodb&theme=light" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Apps_Script.svg" alt="icon" width="50" height="50" />
     <img src="https://github.com/user-attachments/assets/3dc10a7e-866d-4ce0-9ecb-7dd1b5f1d548"alt="icon" height="50" />
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="60" height="60" />
     <img src="https://github.com/user-attachments/assets/ebefba93-ad19-4858-a861-71379dfbdaa7" width="50" height="50" />
