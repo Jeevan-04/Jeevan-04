@@ -168,4 +168,11 @@
       The Mahabharata Text Generation project aims to create an interactive application that leverages a small language model (LLM) to generate text inspired by the Mahabharata. Using a Long Short-Term Memory (LSTM) neural network, the model learns to predict and generate text sequences, capturing the essence and style of the ancient epic.
     </td>
   </tr>
+ <tr>
+    <td>6.</td>
+    <td><a href="https://github.com/Jeevan-04/News-Trendz/tree/main">News-Trendz</a></td>
+    <td>
+      This project fetches news articles from multiple sources, extracts their content, and performs sentiment analysis and named entity recognition (NER). It then visualizes the sentiment distribution, top keywords, locations, and organizations mentioned in the news.
+    </td>
+  </tr>
 </table>
