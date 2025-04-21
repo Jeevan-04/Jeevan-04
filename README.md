@@ -175,4 +175,13 @@
       This project fetches news articles from multiple sources, extracts their content, and performs sentiment analysis and named entity recognition (NER). It then visualizes the sentiment distribution, top keywords, locations, and organizations mentioned in the news.
     </td>
   </tr>
+ <tr>
+    <td>7.</td>
+    <td><a href="https://github.com/Jeevan-04/cppnb">cppnb</a></td>
+    <td>
+       cppnb – The C++ Notebook Experience.
+       Think Jupyter, but native. For C++.<br>
+       Native C++ Jupyter-style notebook using Dear ImGui, Markdown, and ImPlot.
+    </td>
+  </tr>
 </table>
