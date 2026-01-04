@@ -1,20 +1,14 @@
 ### About
 
-I am a computer science undergraduate, currently learning and exploring
-how computational systems reason, how uncertainty can be represented
-explicitly, and how limits of knowledge can be respected.
+I am a computer science undergraduate interested in how computational systems represent knowledge, handle uncertainty, and behave under constraints.
 
-My interests include symbolic and epistemic reasoning, systems programming,
-and studying knowledge traditions as structured methods of inquiry rather
-than belief systems.
-
-My work is exploratory and evolving. I value careful thinking, discussion,
-correction, and collaboration.
+I am particularly drawn to problems where reasoning breaks down - where systems must decide whether to proceed, defer, or refuse.
 
 ---
 
 ### Areas of Interest
 
+My interests tend to cluster around the following themes:
 - Symbolic and epistemic reasoning  
 - Reasoning systems that can express uncertainty or refusal  
 - Deterministic and auditable execution for AI systems  
@@ -24,6 +18,9 @@ correction, and collaboration.
 ---
 
 ### Projects
+
+My interests tend to cluster around the following themes:
+
 
 | Project | Description |
 |-------|-------------|
