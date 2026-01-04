@@ -177,9 +177,9 @@
   </tr>
  <tr>
     <td>7.</td>
-    <td><a href="https://github.com/Jeevan-04/cppnb">cppnb</a></td>
+    <td><a href="https://github.com/Jeevan-04/cpp-notebook">cpp-notebook</a></td>
     <td>
-       cppnb – The C++ Notebook Experience.
+       cpp-notebook – The C++ Notebook Experience.
        Think Jupyter, but native. For C++.<br>
        Native C++ Jupyter-style notebook using Dear ImGui, Markdown, and ImPlot.
     </td>
