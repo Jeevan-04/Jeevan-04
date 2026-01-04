@@ -28,7 +28,7 @@ My interests tend to cluster around the following themes:
 | [Invariant](https://github.com/Jeevan-04/Invariant) | An experimental execution framework exploring how LLMs can be treated as untrusted compute with enforced runtime constraints. |
 | [cpp-notebook](https://github.com/Jeevan-04/cpp-notebook) | A native C++ notebook-style environment for exploratory computation, inspired by Jupyter but designed for C++. |
 | [Nirukti](https://nirukti.org) | A long-term project focused on Indian Knowledge Systems (IKS), emphasizing primary texts, sources, and slow inquiry. |
-| [Mahabharata (experimental)](https://github.com/Jeevan-04/Mahabharata_V0.1) | Early experimental work exploring text modeling using classical literature. |
+| [Mahabharata (experimental)](https://github.com/Jeevan-04/Mahabharata_V0.1) | A Long Short-Term Memory (LSTM) neural network, the model learns to predict and generate text sequences, capturing the essence and style of the ancient epic. |
 
 ---
 
