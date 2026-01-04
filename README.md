@@ -1,30 +1,3 @@
-<h2 align="center">Jeevan</h2>
-
-<p align="center">
-Computer Science Undergraduate<br/>
-Interested in reasoning systems, constrained computation,<br/>
-and knowledge representation
-</p>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/jeevan-naidu-bhārata" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="linkedin logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=njeevan0406@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="gmail logo"  />
-  </a>
-  <a href="https://medium.com/@@2023.jeevann" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="medium logo"  />
-  </a>
-  <a href="https://www.instagram.com/jeevan_irl/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="instagram logo"  />
-  </a>
-</div>
-
----
-
-<img align="center" src="https://github.com/user-attachments/assets/86437b7c-24f7-4b02-86cf-f7df68dcc3d0" width="100%"/>
-
 ### About
 
 I am a computer science undergraduate, currently learning and exploring
@@ -61,6 +34,8 @@ correction, and collaboration.
 | [Mahabharata (experimental)](https://github.com/Jeevan-04/Mahabharata_V0.1) | Early experimental work exploring text modeling using classical literature. |
 
 ---
+
+<img align="center" src="https://github.com/user-attachments/assets/86437b7c-24f7-4b02-86cf-f7df68dcc3d0" width="100%"/>
 
 ### Writing and Logs
 
