@@ -2,15 +2,15 @@
   <img src="https://raw.githubusercontent.com/Jeevan-04/readme_svg/main/assets/calendar.svg" alt="Hindu Calendar Date" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jeevan-04/readme_svg/main/assets/hero.svg" alt="Jeevan Naidu — Hero Banner" width="100%" />
+</p>
+
 ### About
 
 I am a computer science undergraduate interested in how computational systems represent knowledge, handle uncertainty, and behave under constraints.
 
 I am particularly drawn to problems where reasoning breaks down - where systems must decide whether to proceed, defer, or refuse.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jeevan-04/readme_svg/main/assets/hero.svg" alt="Jeevan Naidu — Hero Banner" width="100%" />
-</p>
 
 ---
 
