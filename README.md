@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jeevan-04/readme_svg/main/assets/calendar.svg" alt="Hindu Calendar Date" width="100%" />
+</p>
+
 ### About
 
 I am a computer science undergraduate interested in how computational systems represent knowledge, handle uncertainty, and behave under constraints.
