@@ -4,6 +4,10 @@ I am a computer science undergraduate interested in how computational systems re
 
 I am particularly drawn to problems where reasoning breaks down - where systems must decide whether to proceed, defer, or refuse.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jeevan-04/readme_svg/main/assets/hero.svg" alt="Jeevan Naidu — Hero Banner" width="100%" />
+</p>
+
 ---
 
 ### Areas of Interest
