@@ -25,18 +25,30 @@ My interests tend to cluster around the following themes:
 
 ---
 
-### Projects
+### Project Portfolio &amp; Research Works
 
-My interests tend to cluster around the following themes:
+<p align="center">
+  <!-- Row 1: Featured Project (Double Width) + Standard Project -->
+  <a href="https://github.com/Jeevan-04/epistemic-reasoning-core" target="_blank">
+    <img src="https://raw.githubusercontent.com/Jeevan-04/readme_svg/main/assets/project-episteme.svg" width="530" alt="Episteme" style="margin-right: 10px;" />
+  </a>
+  <a href="https://konvo.in" target="_blank">
+    <img src="https://raw.githubusercontent.com/Jeevan-04/readme_svg/main/assets/project-konvo.svg" width="255" alt="Konvo" />
+  </a>
+</p>
 
-
-| Project | Description |
-|-------|-------------|
-| [Epistemic Reasoning Core](https://github.com/Jeevan-04/epistemic-reasoning-core) | A symbolic reasoning project exploring uncertainty, justification, and refusal as part of reasoning. Ongoing learning-oriented work. |
-| [Invariant](https://github.com/Jeevan-04/Invariant) | An experimental execution framework exploring how LLMs can be treated as untrusted compute with enforced runtime constraints. |
-| [cpp-notebook](https://github.com/Jeevan-04/cpp-notebook) | A native C++ notebook-style environment for exploratory computation, inspired by Jupyter but designed for C++. |
-| [Nirukti](https://nirukti.org) | A long-term project focused on Indian Knowledge Systems (IKS), emphasizing primary texts, sources, and slow inquiry. |
-| [Mahabharata (experimental)](https://github.com/Jeevan-04/Mahabharata_V0.1) | A Long Short-Term Memory (LSTM) neural network, the model learns to predict and generate text sequences, capturing the essence and style of the ancient epic. |
+<p align="center">
+  <!-- Row 2: 3 Standard Projects -->
+  <a href="https://www.nirukti.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/Jeevan-04/readme_svg/main/assets/project-nirukti.svg" width="255" alt="Nirukti" style="margin-right: 10px;" />
+  </a>
+  <a href="https://github.com/Jeevan-04/Invariant" target="_blank">
+    <img src="https://raw.githubusercontent.com/Jeevan-04/readme_svg/main/assets/project-invariant.svg" width="255" alt="Invariant" style="margin-right: 10px;" />
+  </a>
+  <a href="https://jeevan-04.github.io/computational_reality/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Jeevan-04/readme_svg/main/assets/project-computational-reality.svg" width="255" alt="Computational Reality" />
+  </a>
+</p>
 
 ---
 
@@ -57,3 +69,13 @@ This includes design notes, reflections, and records of changes made over time.
 - I am still learning and refining my ideas.  
 - I value clarity over speed and depth over volume.  
 - I am open to discussion, feedback, and collaboration.  
+
+---
+
+<p align="center">
+  <sub><i>"विद्या विवादाय धनं मदाय शक्तिः परेषां परिपीड़नाय। खलस्य साधोर्विपरीतमेतज्ज्ञानाय दानाय च रक्षणाय॥"</i></sub><br/>
+  <sub><b>"Knowledge exists to illuminate, share, and protect, standing as a refuge for wise inquiry."</b></sub>
+</p>
+
+---
+
