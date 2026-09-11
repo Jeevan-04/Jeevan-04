@@ -29,9 +29,6 @@ My interests tend to cluster around the following themes:
 
 <p align="center">
   <!-- Row 1: Featured Project (Double Width) + Standard Project -->
-  <a href="https://github.com/Jeevan-04/epistemic-reasoning-core" target="_blank">
-    <img src="https://raw.githubusercontent.com/Jeevan-04/readme_svg/main/assets/project-episteme.svg" width="530" alt="Episteme" style="margin-right: 10px;" />
-  </a>
   <a href="https://konvo.in" target="_blank">
     <img src="https://raw.githubusercontent.com/Jeevan-04/readme_svg/main/assets/project-konvo.svg" width="255" alt="Konvo" />
   </a>
